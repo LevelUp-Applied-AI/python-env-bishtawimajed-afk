@@ -27,3 +27,7 @@ python -m pip install -r requirements-prework.txt
 2. Complete the work
 3. Push the branch and open a PR from your branch to `main`
 4. Submit the PR URL in TalentLMS
+## When to use each (Notebook vs Script)
+
+* **Choose a Jupyter Notebook** when you are exploring data for the first time, creating visualizations, or need to see the output of each small piece of code immediately.
+* **Choose a Python Script** when your code is finished and you want to run it as a complete program, automate a task, or deploy it to a server.
